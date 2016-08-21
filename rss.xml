@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ART n' PHILOSOPY]]></title>
+        <description><![CDATA[ART n' PHILOSOPY]]></description>
+        <link>https://thegrid.ai/art-n-philosopy/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Aug 2016 13:18:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/art-n-philosopy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8737ee29-d3f6-49e2-8555-f5398d0ac643.jpg">]]></description>
+            <link>https://thegrid.ai/art-n-philosopy/5b0ca6fa-b8c4-41cd-8f05-fa64d3c3e258/index.html</link>
+            <guid isPermaLink="false">5b0ca6fa-b8c4-41cd-8f05-fa64d3c3e258</guid>
+            <pubDate>Sun, 21 Aug 2016 13:18:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9aa067d-9dc0-483c-8e3d-a23151dad48a.jpg">]]></description>
+            <link>https://thegrid.ai/art-n-philosopy/762d4bb8-0c24-4cba-9657-8bc368457ffe/index.html</link>
+            <guid isPermaLink="false">762d4bb8-0c24-4cba-9657-8bc368457ffe</guid>
+            <pubDate>Sun, 21 Aug 2016 13:17:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
