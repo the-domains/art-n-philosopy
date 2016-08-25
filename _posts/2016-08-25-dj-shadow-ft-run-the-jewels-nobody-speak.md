@@ -1,16 +1,16 @@
 ---
+datePublished: '2016-08-25T21:10:34.876Z'
+sourcePath: _posts/2016-08-25-dj-shadow-ft-run-the-jewels-nobody-speak.md
+isBasedOnUrl: 'https://vimeo.com/180016993'
+keywords: []
+related: []
 author:
   - name: Sam Pilling
     url: 'https://vimeo.com/sampilling'
     avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: '"You wanna hear a good joke?"'
+via: {}
+dateModified: '2016-08-25T21:10:33.995Z'
+title: DJ Shadow ft. Run The Jewels - Nobody Speak
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/180016993'
     type: ios
@@ -38,18 +38,18 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/180016993'
-title: DJ Shadow ft. Run The Jewels - Nobody Speak
-datePublished: '2016-08-25T21:06:46.931Z'
-dateModified: '2016-08-25T21:05:33.473Z'
-via: {}
+publisher:
+  url: 'https://vimeo.com/'
+  name: Vimeo
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+  domain: vimeo.com
+description: '"You wanna hear a good joke?"'
 starred: false
-sourcePath: _posts/2016-08-25-dj-shadow-ft-run-the-jewels-nobody-speak.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F180016993&amp;url=https%3A%2F%2Fvimeo.com%2F180016993&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F588104343_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="425" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
